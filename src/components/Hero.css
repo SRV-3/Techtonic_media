@@ -1,0 +1,9 @@
+.Hero{
+    height: 92vh;
+    width: 100%;
+    background-color: black;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
